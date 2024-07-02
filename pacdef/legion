@@ -1,0 +1,9 @@
+[arch]
+envycontrol
+intel-ucode
+libva-utils
+libva-vdpau-driver
+m4
+nvidia-beta-dkms
+vdpauinfo
+warp-terminal

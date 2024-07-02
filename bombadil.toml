@@ -1,0 +1,8 @@
+# {dotfiles}/bombadil.toml
+
+# Path to your dotfiles relative to your $HOME directory
+dotfiles_dir = ".dotfiles"
+
+[settings.dots]
+pacdef = { source = "pacdef/pacdef.yaml", target = ".config/pacdef/pacdef.yaml" }
+zsh = { source = "zsh/zshrc", target = ".zshrc" }
